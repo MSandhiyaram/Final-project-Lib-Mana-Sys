@@ -1,5 +1,5 @@
 
-                                                                   ** **LIBRARY MANAGEMENT SYSTEM** **
+                  ** **LIBRARY MANAGEMENT SYSTEM** **
 
 **The main objective of this project**
       To collect, store, organize, retrieve and make available the information sources to the information users.
